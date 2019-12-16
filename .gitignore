@@ -1,4 +1,5 @@
 app.log
 *.log
+*.log.2
 /target
 /build
