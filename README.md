@@ -7,3 +7,7 @@ add a bit more text
 for testing..
 
 This is the edit done in master that will cause a conflict with the edit done in trouble branch.
+
+From branch - trouble
+This text is here to cause a conflict and cause trouble
+
