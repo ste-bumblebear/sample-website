@@ -5,3 +5,5 @@ This is an updated read me file for the update-readme branch.
 
 add a bit more text
 for testing..
+
+This text is here to cause a conflict and cause trouble
